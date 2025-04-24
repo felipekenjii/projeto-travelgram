@@ -1,0 +1,12 @@
+main {
+  display: flex; /* Deixa os elementos um ao lado do outro */
+  flex-wrap: wrap; /* Faz com que os elementos ocupem apenas o espaço disponível no site */
+  gap: 24px;
+  padding-block: 24px;
+}
+
+main img {
+  width: 286px;
+  height: 286px;
+  object-fit: cover;
+}
