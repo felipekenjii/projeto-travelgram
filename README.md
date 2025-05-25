@@ -35,5 +35,5 @@ Neste projeto, pratiquei a criação de páginas estáticas com HTML e CSS, foca
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/travelgram.git
+   https://github.com/felipekenjii/projeto-travelgram.git
 
