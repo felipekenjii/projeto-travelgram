@@ -14,7 +14,7 @@
 
 Você pode visualizar o layout original do projeto no Figma clicando no link abaixo:
 
-👉 [Acessar o Projeto no Figma](https://www.figma.com/community/file/1384542229391733447/local-turistico)
+👉 [Acessar o Projeto no Figma](https://www.figma.com/community/file/1360315496868719817/perfil-de-viagens)
 
 ---
 
